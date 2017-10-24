@@ -1,0 +1,28 @@
+#####################
+#UE4 Generated Files#
+#####################
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+
+
+####################
+#VS Generated Files#
+####################
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+
+
+#################
+#Starter Content#
+#################
+Content\StarterContent
